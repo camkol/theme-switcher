@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [View](https://themetoggler24.netlify.app/)
+- Live Site URL: [View](https://themeswitcher24.netlify.app/)
 
 ## My process
 
